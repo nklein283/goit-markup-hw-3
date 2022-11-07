@@ -1,1 +1,2 @@
-# goit-markup-hw-3
+# goti-markup-hw-03
+Homework 2
