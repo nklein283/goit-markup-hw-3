@@ -19,6 +19,9 @@ body {
     min-height: 100vh;
 
 }
+.body-container{
+    width: 1200px;
+}
 
 a{
     text-decoration: none;
@@ -153,7 +156,9 @@ ul{
 .features{
     display: flex; 
     height: 95px; 
-    width: 1170px;      
+    width: 1170px; 
+    
+            
         
 }
 .feature-item{        
@@ -311,7 +316,10 @@ ul{
     
 }
 .portfolio-images{
+    display: flex;
+    justify-content: space-around;
     background-color: #E5E5E5;
+    border-bottom: 1px solid #EEEEEE;
 }
 
 
